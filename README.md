@@ -14,7 +14,8 @@ Build your training and test set from the dataset, here we are making the neural
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![OP-01](https://github.com/Ishu-Vasanth/basic-nn-model/assets/94154614/0c64b6a9-7538-4bbe-8f2c-b81ae99998ff)
+
 
 ## DESIGN STEPS
 
@@ -46,26 +47,36 @@ Plot the performance plot
 
 Evaluate the model with the testing data.
 
-## PROGRAM
+# PROGRAM
+```
+Developed By: ISHWARYA V 
+RegNo: 212221240016
+```
 
-Include your code here
+
 
 ## Dataset Information
+![OP-2](https://github.com/Ishu-Vasanth/basic-nn-model/assets/94154614/bc0bcdd9-a58a-48eb-a937-8de39f896fc5)
 
-Include screenshot of the dataset
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-Include your plot here
+![OP-3](https://github.com/Ishu-Vasanth/basic-nn-model/assets/94154614/e7e4a36b-4856-4cdb-966f-8c479f24413a)
+
 
 ### Test Data Root Mean Squared Error
 
-Find the test data root mean squared error
+![OP-4](https://github.com/Ishu-Vasanth/basic-nn-model/assets/94154614/15644ac0-d42a-4995-9c74-2cbd198f1a33)
+
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![OP-5](https://github.com/Ishu-Vasanth/basic-nn-model/assets/94154614/e23dcc9b-f571-41b9-91bb-fe80280e4d27)
 
-## RESULT
+
+# RESULT:
+Therefore We successfully developed a neural network regression model for the given dataset.
+
+
