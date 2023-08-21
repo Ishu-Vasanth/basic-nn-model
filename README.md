@@ -63,7 +63,7 @@ from tensorflow.keras.layers import Dense
 from google.colab import auth
 
 ```
-## Authentication and Creating DataFrame From DataSheet :
+## Authentication and Creating DataFrame From DataSheet:
 ```
 
 import gspread
